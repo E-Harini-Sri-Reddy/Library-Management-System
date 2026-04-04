@@ -1,0 +1,5 @@
+{
+  "name": "Remix: SLMS",
+  "description": "Smart Library Management System with ARIMA-based demand forecasting for efficient inventory planning and role-based dashboards.",
+  "requestFramePermissions": []
+}
